@@ -1,0 +1,208 @@
+CRITICAL - 2026-09-25 12:48:21 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "customers/index.php"
+[Method: GET, Route: customers]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('customers/index.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('customers/index', [], true)
+ 3 APPPATH\Controllers\Customers.php(17): view('customers/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\dioan\\Downloads\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-25 12:48:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "customers/index.php"
+[Method: GET, Route: customers]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('customers/index.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('customers/index', [], true)
+ 3 APPPATH\Controllers\Customers.php(17): view('customers/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\dioan\\Downloads\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-25 12:48:34 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "customers/index.php"
+[Method: GET, Route: customers]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('customers/index.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('customers/index', [], true)
+ 3 APPPATH\Controllers\Customers.php(17): view('customers/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\dioan\\Downloads\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-25 12:48:39 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "customers/index.php"
+[Method: GET, Route: customers]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('customers/index.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('customers/index', [], true)
+ 3 APPPATH\Controllers\Customers.php(17): view('customers/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\dioan\\Downloads\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-25 12:49:00 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "customers/index.php"
+[Method: GET, Route: customers]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('customers/index.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('customers/index', [], true)
+ 3 APPPATH\Controllers\Customers.php(17): view('customers/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\dioan\\Downloads\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-25 12:55:38 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "customers/index.php"
+[Method: GET, Route: customers]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('customers/index.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('customers/index', [], true)
+ 3 APPPATH\Controllers\Customers.php(17): view('customers/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\dioan\\Downloads\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-25 12:57:06 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "customers/index.php"
+[Method: GET, Route: customers]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('customers/index.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('customers/index', [], true)
+ 3 APPPATH\Controllers\Customers.php(17): view('customers/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\dioan\\Downloads\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-25 12:57:17 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "customers/index.php"
+[Method: GET, Route: customers]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('customers/index.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('customers/index', [], true)
+ 3 APPPATH\Controllers\Customers.php(17): view('customers/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\dioan\\Downloads\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-25 12:58:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "customers/index.php"
+[Method: GET, Route: customers]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('customers/index.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('customers/index', [], true)
+ 3 APPPATH\Controllers\Customers.php(17): view('customers/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\dioan\\Downloads\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-25 12:58:44 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "customers/index.php"
+[Method: GET, Route: customers]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('customers/index.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('customers/index', [], true)
+ 3 APPPATH\Controllers\Customers.php(17): view('customers/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\dioan\\Downloads\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-25 13:01:25 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "customers/index.php"
+[Method: GET, Route: customers]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('customers/index.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('customers/index', [], true)
+ 3 APPPATH\Controllers\Customers.php(17): view('customers/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\dioan\\Downloads\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-25 13:01:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "customers/index.php"
+[Method: GET, Route: customers]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('customers/index.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('customers/index', [], true)
+ 3 APPPATH\Controllers\Customers.php(17): view('customers/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\dioan\\Downloads\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-25 13:01:39 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "customers/index.php"
+[Method: GET, Route: customers]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('customers/index.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('customers/index', [], true)
+ 3 APPPATH\Controllers\Customers.php(17): view('customers/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\dioan\\Downloads\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-25 13:02:00 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "customers/index.php"
+[Method: GET, Route: customers]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('customers/index.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('customers/index', [], true)
+ 3 APPPATH\Controllers\Customers.php(17): view('customers/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\dioan\\Downloads\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-25 13:18:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "customers/index.php"
+[Method: GET, Route: customers]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('customers/index.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('customers/index', [], true)
+ 3 APPPATH\Controllers\Customers.php(17): view('customers/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\dioan\\Downloads\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-25 13:18:54 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "customers/index.php"
+[Method: GET, Route: customers]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('customers/index.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('customers/index', [], true)
+ 3 APPPATH\Controllers\Customers.php(17): view('customers/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\dioan\\Downloads\\pos-system\\public\\index.php')
