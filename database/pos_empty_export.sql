@@ -1,0 +1,3 @@
+-- Point-of-Sale System Database Export
+-- This first version does not use a database.
+-- Customer and user records are stored in static PHP arrays.
